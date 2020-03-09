@@ -67,7 +67,7 @@
           "language": "JS",
           "license": "MIT",
           "stars": "25.5K",
-          "svg": "https://upload.wikimedia.org/wikipedia/commons/5/55/RocketChat_Logo_1024x1024.png",
+          "svg": "https://raw.githubusercontent.com/RocketChat/Rocket.Chat.Artwork/master/Logos/icon-circle-256.png",
           "deploy": "https://heroku.com/deploy?template=https://github.com/RocketChat/Rocket.Chat"
         },
         {
